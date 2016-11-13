@@ -13,3 +13,7 @@ Laundry indication mark（JIS L 0001）
 ## 参考URL
 
 * [繊維製品品質表示規程の一部改正を行いました（PDF） - 消費者庁](http://www.caa.go.jp/hinpyo/pdf_data/150331_kouhyoubun.pdf)
+
+## イメージ
+
+![サンプルイメージ](https://github.com/blockworks/Laundry-indication-mark/blob/master/sample.png)
